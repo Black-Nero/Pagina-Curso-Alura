@@ -3,9 +3,9 @@
 
 :root {
     --color-primario: #000000;
-    --color-secundario: #F6F6F6;
-    --color-terciario: #22D4FD;
-    --color-hover: #272727;
+    --color-secundario: #ffffff;
+    --color-terciario: #00d0ff;
+    --color-hover: #333333;
 
     --fuente-krona: 'Krona One', sans-serif;
     --fuente-montserrat: 'Montserrat', sans-serif;
